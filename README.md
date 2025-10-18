@@ -84,7 +84,6 @@ python run.py
 
 ### Docker
 ```bash
-docker build -t streamoid-app .
 docker run -p 8000:8000 streamoid-app
 ```
 
